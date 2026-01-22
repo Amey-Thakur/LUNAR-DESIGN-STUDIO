@@ -242,8 +242,8 @@ Copyright © 2022 Amey Thakur
 <a name="about-this-repository"></a>
 ## About This Repository
 
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)
-**Project Type**: Independent Project
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Project Type**: Independent Project  
 **Commissioned By**: [Lunar Design Studio](https://github.com/LunarDesignStudio)
 
 This project features **Lunar Design Studio**, a premium portfolio website created for **Architect Mugdha Thakur**. It represents a professional exploration into **Frontend Development** and immersive web design.
