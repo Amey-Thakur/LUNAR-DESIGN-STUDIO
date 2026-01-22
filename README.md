@@ -202,6 +202,11 @@ LUNAR-DESIGN-STUDIO/
 - **Web Browser**: Modern browser (Chrome, Firefox, Edge) for rendering.
 - **Git**: For version control and cloning. [Download Git](https://git-scm.com/downloads)
 
+> [!WARNING]
+> **Local Execution**
+>
+> For local development, ensure that the project directory structure is preserved. Running the project locally requires strictly maintaining the relative path integrity of the `Source Code` directory for the correct loading of style assets and scripts.
+
 ### 2. Installation
 Clone the repository to your local machine:
 
