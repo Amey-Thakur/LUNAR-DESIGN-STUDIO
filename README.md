@@ -80,9 +80,9 @@ The design is governed by strict **aesthetic principles** ensuring elegance and 
 
 ### Tech Stack
 - **Languages**: HTML5, CSS3, JavaScript (ES6)
-- **Styling**: Vanilla CSS + Bootstrap Grid
-- **Animation**: Anime.js + Custom Keyframes
-- **UI System**: Slick Slider (Carousel Logic)
+- **Logic**: **Vanilla JS** (Animation & Interaction Logic)
+- **Imaging**: **High-Fidelity Rendering** (Exterior & Interior Visualization)
+- **UI System**: **Slick Slider** (Carousel Logic)
 - **Deployment**: GitHub Actions (Jekyll Pipeline)
 - **Hosting**: GitHub Pages
 
