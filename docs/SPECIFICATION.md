@@ -8,7 +8,7 @@
 
 ```mermaid
 graph TD
-    Start["User Visit"] --> Load["Premium Loading Screen"]
+    Start["User Visit"] --> Load["Architectural Loading Screen"]
     Load --> Home["Hero Landing Page"]
     Home --> Nav["Navigation Menu"]
     Nav --> Services["Our Services (Carousel)"]
@@ -24,7 +24,7 @@ graph TD
 
 ### 1. Frontend Architecture
 -   **Core**: Built on semantic **HTML5**, **CSS3**, and **JavaScript**, utilizing **Bootstrap 4** for a responsive grid system.
--   **Animation Engine**: Integrates **Anime.js** for fluid transitions and the premium loading screen animations.
+-   **Animation Engine**: Integrates **Anime.js** for fluid transitions and the architectural loading screen animations.
 
 ### 2. UI/UX Components
 -   **Interactive Gallery**: Uses **Slick Slider** to manage the "Our Work" carousel, allowing touch-enabled swiping and responsive navigation.

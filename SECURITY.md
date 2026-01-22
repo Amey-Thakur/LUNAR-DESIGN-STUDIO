@@ -2,7 +2,7 @@
 
 ## Maintenance Status
 
-This repository is part of a curated collection of independent projects and is maintained in a finalized and stable state. The project is preserved as a complete and authoritative record, with its scope and contents intentionally fixed to ensure long-term professional reference.
+This repository is part of a curated collection of projects and is maintained in a finalized and stable state. The project is preserved as a complete and authoritative record, with its scope and contents intentionally fixed to ensure long-term professional reference.
 
 ## Supported Versions
 
@@ -33,7 +33,7 @@ This project consists of a professional portfolio website for Lunar Design Studi
 
 ## Technical Integrity Statement
 
-This repository is preserved as a fixed independent project. Security-related submissions are recorded for documentation and contextual reference and do not imply active monitoring, response obligations, or subsequent modification of the repository.
+This repository is preserved as a fixed project. Security-related submissions are recorded for documentation and contextual reference and do not imply active monitoring, response obligations, or subsequent modification of the repository.
 
 ---
 

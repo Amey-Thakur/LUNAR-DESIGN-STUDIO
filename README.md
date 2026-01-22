@@ -8,7 +8,7 @@
   [![Technology](https://img.shields.io/badge/Technology-HTML%20%7C%20CSS%20%7C%20JS-blueviolet)](https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO)
   [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  A professional **Architecture Portfolio Project** designed for **Architect Mugdha Thakur**, featuring immersive animations, 3D visualization galleries, and a premium modernist aesthetic.
+  A professional **Architecture Portfolio Project** designed for **Architect Mugdha Thakur**, featuring immersive animations, 3D visualization galleries, and an architectural modernist aesthetic.
 
   **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Live Demo](https://amey-thakur.github.io/LUNAR-DESIGN-STUDIO/)**
 
@@ -52,12 +52,12 @@
 The design is governed by strict **aesthetic principles** ensuring elegance and usability:
 *   **Visual Immersion**: The interface utilizes full-width visualization and smooth transitions (`Anime.js`) to keep the focus on the architectural imagery.
 *   **Minimalist Functionality**: Navigation is streamlined into a card-based grid system, allowing intuitive access to services and project galleries.
-*   **Premium Identity**: A sophisticated dark-themed palette (`#2c2a35`) coupled with architecture-specific iconography (🏛️) establishes a professional brand presence.
+*   **Architectural Identity**: A sophisticated dark-themed palette (`#2c2a35`) coupled with architecture-specific iconography (🏛️) establishes a professional brand presence.
 
 > [!TIP]
 > **User Experience Design**
 >
-> To maximize engagement, the site employs a **Premium Loading Sequence**. A custom preloader with a floating architectural icon and progress bar manages asset initialization, ensuring a polished, "no-flicker" entry into the visual experience.
+> To maximize engagement, the site employs an **Architectural Loading Sequence**. A custom preloader with a floating architectural icon and progress bar manages asset initialization, ensuring a polished, "no-flicker" entry into the visual experience.
 
 ---
 
@@ -69,7 +69,7 @@ The design is governed by strict **aesthetic principles** ensuring elegance and 
 |---------|-------------|
 | **Responsive Grid** | Fluid layout using **Bootstrap 4** adaptations for seamless mobile-to-desktop scaling. |
 | **Interactive Gallery** | Touch-enabled image carousels powered by **Slick Slider** for project showcases. |
-| **Premium Loader** | Custom **JS-driven animations** ensuring assets are fully primed before display. |
+| **Architectural Loader** | Custom **JS-driven animations** ensuring assets are fully primed before display. |
 | **Contact Integration** | Styled form interface for client inquiries and consultations. |
 | **Semantic SEO** | Optimized document structure for search engine visibility and accessibility. |
 | **Deployment** | Automated CI/CD via **GitHub Actions** for robust static hosting. |
@@ -136,7 +136,7 @@ LUNAR-DESIGN-STUDIO/
 ## Visual Walkthrough
 
 <div align="center">
-  <b>System Initialization: Premium Loader</b>
+  <b>System Initialization: Architectural Loader</b>
   <br>
   <i>Custom architectural preloader with progress tracking.</i>
   <br><br>
@@ -243,10 +243,10 @@ Copyright © 2022 Amey Thakur
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
-**Project Type**: Independent Architecture Portfolio Project  
+**Project Type**: Architecture Portfolio Project  
 **Commissioned By**: [Lunar Design Studio](https://github.com/LunarDesignStudio)
 
-This project features **Lunar Design Studio**, a premium portfolio website created for **Architect Mugdha Thakur**. It represents a professional exploration into **Frontend Development** and immersive web design.
+This project features **Lunar Design Studio**, an architecture portfolio website created for **Architect Mugdha Thakur**. It represents a professional exploration into **Frontend Development** and immersive web design.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
