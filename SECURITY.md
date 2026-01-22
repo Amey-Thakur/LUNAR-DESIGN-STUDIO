@@ -25,7 +25,7 @@ Submissions include:
   2. Demonstrable steps or evidence sufficient to contextualize the finding.
   3. An explanation of the issue’s relevance within the defined scope of the project.
 
-## Implementation Context: Design Portfolio Website
+## Implementation Context: Architecture Portfolio Project
 
 This project consists of a professional portfolio website for Lunar Design Studio, utilizing HTML, CSS, and JavaScript for presentation and interaction.
 
@@ -37,4 +37,4 @@ This repository is preserved as a fixed independent project. Security-related su
 
 ---
 
-*This document defines the security posture of a finalized Web project.*
+*This document defines the security posture of a finalized Architecture Portfolio Project.*

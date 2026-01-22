@@ -44,4 +44,4 @@ graph TD
 
 ---
 
-*Technical Specification | Web | Version 1.0*
+*Technical Specification | Architecture Portfolio Project | Version 1.0*
