@@ -1,15 +1,10 @@
 {
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
-    "license": "https://spdx.org/licenses/MIT",
-    "codeRepository": "https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO",
-    "dateCreated": "2022-09-18",
-    "datePublished": "2022-09-18",
-    "dateModified": "2026-01-22",
     "name": "LUNAR-DESIGN-STUDIO",
-    "version": "1.0.0",
     "description": "Architects and interior designers website created for Mugdha Thakur (Tai).",
-    "applicationCategory": "Web Application",
+    "identifier": "LUNAR-DESIGN-STUDIO",
+    "license": "https://spdx.org/licenses/MIT.html",
     "programmingLanguage": [
         "HTML",
         "CSS",
@@ -19,7 +14,18 @@
         {
             "@type": "Person",
             "givenName": "Amey",
-            "familyName": "Thakur"
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575"
         }
+    ],
+    "dateReleased": "2022-09-18",
+    "codeRepository": "https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO",
+    "developmentStatus": "complete",
+    "applicationCategory": "Web Application",
+    "keywords": [
+        "Architecture",
+        "Interior Design",
+        "Portfolio",
+        "Web Design"
     ]
 }
