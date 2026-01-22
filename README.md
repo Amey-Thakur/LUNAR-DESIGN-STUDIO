@@ -265,12 +265,3 @@ Grateful acknowledgment to **[Architect Mugdha Thakur (Tai)](https://www.instagr
   <br>
 
   🏛️ **[LUNAR-DESIGN-STUDIO](https://amey-thakur.github.io/LUNAR-DESIGN-STUDIO)**
-
-  ---
-
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
-
-  **Computer Engineering (B.E.) - University of Mumbai**
-  *Semester-wise curriculum, laboratories, projects, and academic notes.*
-
-</div>
