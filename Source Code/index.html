@@ -308,27 +308,28 @@
                                                 </div>
                                                 <div class="row">
                                                     <div class="col-12">
-                                                        <form action="index.html" method="post" class="contact-form">
+                                                        <form action="https://formspree.io/f/lunardstudio@gmail.com" method="POST" id="contact-form" class="contact-form">
                                                             <div class="row">
                                                                 <div class="form-group col-md-6 col-lg-6 col-xl-6">
                                                                     <input type="text" id="contact_name"
-                                                                        name="contact_name" class="form-control"
+                                                                        name="name" class="form-control"
                                                                         placeholder="Name" required />
                                                                 </div>
                                                                 <div
                                                                     class="form-group col-md-6 col-lg-6 col-xl-6 tm-col-email">
                                                                     <input type="email" id="contact_email"
-                                                                        name="contact_email" class="form-control"
+                                                                        name="email" class="form-control"
                                                                         placeholder="Email" required />
                                                                 </div>
                                                             </div>
                                                             <div class="form-group">
-                                                                <textarea id="contact_message" name="contact_message"
+                                                                <textarea id="contact_message" name="message"
                                                                     class="form-control" rows="9" placeholder="Message"
                                                                     required></textarea>
                                                             </div>
-                                                            <button type="submit"
+                                                            <button type="submit" id="submit-btn"
                                                                 class="btn btn-primary tm-btn-submit">Submit</button>
+                                                            <div id="form-status" class="mt-3"></div>
                                                         </form>
                                                     </div>
                                                 </div>
@@ -382,6 +383,56 @@
 
             $('.tm-current-year').text(new Date().getFullYear());  // Update year in copyright           
         });
+
+        // Contact Form Submission
+        const contactForm = document.getElementById('contact-form');
+        const formStatus = document.getElementById('form-status');
+        const submitBtn = document.getElementById('submit-btn');
+
+        if (contactForm) {
+            contactForm.addEventListener('submit', async function (e) {
+                e.preventDefault();
+                
+                const formData = new FormData(contactForm);
+                submitBtn.disabled = true;
+                submitBtn.innerText = 'Sending...';
+                formStatus.style.color = '#fff';
+                formStatus.innerText = 'Sending your message...';
+
+                try {
+                    const response = await fetch(contactForm.action, {
+                        method: 'POST',
+                        body: formData,
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+
+                    if (response.ok) {
+                        formStatus.style.color = '#28a745';
+                        formStatus.innerText = 'Success! Your message has been sent.';
+                        contactForm.reset();
+                        submitBtn.innerText = 'Submit';
+                    } else {
+                        const data = await response.json();
+                        if (data.errors) {
+                            formStatus.style.color = '#dc3545';
+                            formStatus.innerText = data.errors.map(error => error.message).join(', ');
+                        } else {
+                            throw new Error('Form submission failed');
+                        }
+                    }
+                } catch (error) {
+                    formStatus.style.color = '#dc3545';
+                    formStatus.innerText = 'Oops! There was a problem sending your message.';
+                } finally {
+                    submitBtn.disabled = false;
+                    if (formStatus.innerText === 'Sending your message...') {
+                         submitBtn.innerText = 'Submit';
+                    }
+                }
+            });
+        }
 
     </script>
 
