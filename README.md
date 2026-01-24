@@ -252,7 +252,7 @@ This project features **Lunar Design Studio**, an architecture portfolio website
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Architect Mugdha Thakur (Tai)](https://www.instagram.com/_the.confuzedsoul?igsh=NTc4MTIwNjQ2YQ==)** (Lunardstudio@gmail.com) for her visionary design concepts and collaboration. This project was crafted to reflect her architectural ethos and professional brand.
+Grateful acknowledgment to **[Architect Mugdha Thakur (Tai)](https://www.instagram.com/_the.confuzedsoul)** (mugdhathakur99@gmail.com / Lunardstudio@gmail.com) for her visionary design concepts and collaboration. This project was crafted to reflect her architectural ethos and professional brand.
 
 ---
 
