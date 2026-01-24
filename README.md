@@ -233,13 +233,13 @@ You can run the application directly by opening the entry file:
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use this project as reference material for understanding interactive web design, frontend development patterns, and responsive UI principles. The source code is available for study to facilitate self-paced learning and exploration of user-centric design patterns.
+Use this project as reference material for understanding interactive web design, frontend development patterns, and responsive UI principles. The source code is available for study to facilitate self-paced learning and exploration of user-centric design patterns, specifically focusing on grid layouts and carousel implementation.
 
 **For Educators**  
 This project may serve as a practical lab example or supplementary teaching resource for Web Development and Design courses. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The documentation and design approach may provide insights into academic project structuring and interactive application development.
+The documentation and design approach may provide insights into digital architectural representation and online portfolio structuring.
 
 ---
 
