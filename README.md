@@ -223,6 +223,13 @@ You can run the application directly by opening the entry file:
 1. Navigate to the `Source Code` folder.
 2. Open `index.html` in your preferred web browser.
 
+> [!TIP]
+> **Architectural Portfolio Simulation | Lunar Design Studio**
+> 
+> Experience a high-fidelity web showcase of this architecture studio, featuring immersive **3D visualizations**, smooth **Anime.js** transitions, and a premium **modernist aesthetic** designed to maximize visual storytelling and **Human-Machine Interaction** efficiency.
+>
+> [**Launch Live Demo**](https://amey-thakur.github.io/LUNAR-DESIGN-STUDIO/)
+
 ---
 
 <!-- =========================================================================================
