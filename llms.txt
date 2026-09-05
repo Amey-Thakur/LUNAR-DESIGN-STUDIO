@@ -1,0 +1,31 @@
+# Lunar Design Studio
+
+> Lunar Design Studio is a professionally designed architecture portfolio
+> project developed for Architect Mugdha Thakur.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 18 September 2022
+
+## What is in this repository
+
+- Source Code, 51 files
+- docs, 1 file
+- screenshots, 9 files
+
+## Subject terms
+
+anime-js, architecture, architecture-portfolio, architecture-studio,
+bootstrap, frontend, github-pages, interior-design-website, modern-ux,
+professional-portfolio, responsive-design,
+responsive-design-using-bootstrap, slick-slider, web-design, website
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/LUNAR-DESIGN-STUDIO
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/LUNAR-DESIGN-STUDIO/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
